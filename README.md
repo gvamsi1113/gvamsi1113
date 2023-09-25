@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gvamsi1113
-- 👀 I’m interested in all kinds of goofy stuff
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on an app using react
+- 👋 Hi, I’m Hima Vamsi Gujjarlapudi
+- 👀 I’m interested in all kinds of stuff from space to screens
+- 🌱 I’m currently working on a huge project with React.js and React Native
+- 💞️ I’m looking for collaborators on this project
 - 📫 You can contact me through email --> gvamsi1113@gmail.com
 
 <!---
