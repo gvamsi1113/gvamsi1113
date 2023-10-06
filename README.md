@@ -1,7 +1,4 @@
-<!---
-gvamsi1113/gvamsi1113 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 <h1 align="center">👋 Hi, I'm Hima Vamsi Gujjarlapudi</h1>
 <h3 align="center">🌱 I make boring screens look pretty and function with finesse.</h3>
 <h3 align="center">👀 I’m interested in all kinds of stuff from space to screens</h3>
